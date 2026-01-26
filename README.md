@@ -67,7 +67,7 @@ Este repositorio tiene como objetivo:
 - 📊 [Comparativa de Hosting Argentina](https://hostinglab360.com.ar)
 - 🏆 [Ranking TOP 5 Mejor Hosting](https://hostinglab360.com.ar#ranking)
 - 📖 [Guías completas de hosting](https://hostinglab360.com.ar/guias/)
-- 📧 Contacto: info@hostinglab360.com.ar
+- 📧 Contacto: contacto@hostinglab360.com.ar
 
 ## 🤝 Contribuciones
 
