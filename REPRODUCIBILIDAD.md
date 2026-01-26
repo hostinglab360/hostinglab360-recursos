@@ -358,7 +358,7 @@ Si tus mediciones difieren significativamente de nuestras reviews:
 3. **Incluir**: Fecha, hora, ubicación, proveedor, métrica
 4. **Revisaremos** y actualizaremos si es necesario
 
-📧 O contactar: info@hostinglab360.com.ar
+📧 O contactar: contacto@hostinglab360.com.ar
 
 ---
 
