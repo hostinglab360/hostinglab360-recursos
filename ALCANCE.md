@@ -2,16 +2,20 @@
 
 Este documento explica **qué incluye y qué NO incluye** este repositorio público, así como las razones detrás de estas decisiones.
 
+> **Aclaración importante**
+>
+> Los scripts de `scripts-demo` son ejemplos históricos, básicos y educativos. No son el conjunto de herramientas que HostingLab360 utiliza actualmente y no permiten reproducir exactamente las reviews, rankings o mediciones publicadas. El protocolo vigente se consulta en [hostinglab360.com.ar/metodologia](https://hostinglab360.com.ar/metodologia).
+
 ---
 
 ## 🎯 Objetivo del Repositorio
 
 Este repositorio tiene como propósito:
 
-1. **Transparencia**: Mostrar el tipo de pruebas y métricas que utilizamos
+1. **Transparencia**: Conservar material educativo e histórico
 2. **Educación**: Compartir conocimiento técnico con la comunidad
-3. **Reproducibilidad**: Proveer scripts que cualquiera pueda ejecutar
-4. **Demostrar seriedad**: Evidenciar un proceso profesional de evaluación
+3. **Aprendizaje**: Proveer ejemplos básicos que cualquiera pueda ejecutar
+4. **Trazabilidad**: Separar los ejemplos públicos del protocolo interno actual
 
 **NO** es una copia completa de nuestro entorno de producción.
 
@@ -27,7 +31,7 @@ Scripts funcionales pero **simplificados** que cualquiera puede ejecutar:
 - **Monitor de uptime**: Verificación simple de disponibilidad
 - **Benchmark PHP**: Prueba de rendimiento de servidor
 
-**Propósito**: Demostrar el **tipo** de métricas que evaluamos y permitir reproducibilidad básica.
+**Propósito**: Conservar ejemplos educativos básicos. No documentan el protocolo ni el stack actual del laboratorio.
 
 ### 2. Metodología Pública (`/metodologia-publica`)
 
@@ -196,15 +200,15 @@ Porque:
 
 - Resultados consistentes en el tiempo
 - Metodología pública verificable
-- Scripts demo producen resultados similares (con variabilidad esperada)
+- Las reviews publicadas documentan las condiciones y métricas de cada auditoría
 - Transparencia sobre limitaciones
 
 ### ¿Puedo replicar exactamente sus resultados?
 
-No exactamente, pero sí aproximadamente:
-- Los scripts demo te darán resultados similares
+No:
+- Los scripts demo son ejemplos históricos y no replican el protocolo actual
 - Variabilidad es esperable (ver [REPRODUCIBILIDAD.md](REPRODUCIBILIDAD.md))
-- Nuestros resultados son promedios de múltiples mediciones
+- Las reviews vigentes explican sus propias condiciones de medición
 
 ---
 

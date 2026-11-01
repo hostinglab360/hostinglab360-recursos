@@ -1,6 +1,8 @@
-# 🔬 Reproducibilidad de Pruebas
+# 🔬 Reproducibilidad de Ejemplos Históricos
 
-Este documento explica **qué partes de nuestro proceso pueden ser replicadas** por terceros, **qué variabilidad esperar**, y **las limitaciones técnicas** de los scripts públicos.
+Este documento conserva las limitaciones técnicas de los scripts públicos de `scripts-demo`. Son ejemplos históricos y básicos: **no reproducen el protocolo actual de HostingLab360** ni permiten validar por sí solos las reviews o rankings publicados.
+
+Para conocer el método vigente, consultá [hostinglab360.com.ar/metodologia](https://hostinglab360.com.ar/metodologia).
 
 ---
 
@@ -10,7 +12,8 @@ Este documento explica **qué partes de nuestro proceso pueden ser replicadas** 
 
 **Qué mide**: Time To First Byte desde tu ubicación
 
-**Reproducible**: ✅ Sí  
+**El script puede ejecutarse**: ✅ Sí
+**Reproduce la medición actual del laboratorio**: ❌ No
 **Cómo usarlo**:
 ```bash
 bash scripts-demo/test-ttfb.sh https://ejemplo.com
@@ -33,7 +36,8 @@ bash scripts-demo/test-ttfb.sh https://ejemplo.com
 
 **Qué mide**: Disponibilidad del servidor en un momento dado
 
-**Reproducible**: ✅ Sí  
+**El script puede ejecutarse**: ✅ Sí
+**Reproduce el monitoreo actual del laboratorio**: ❌ No
 **Cómo usarlo**:
 ```bash
 bash scripts-demo/monitor-uptime.sh https://ejemplo.com
@@ -55,7 +59,8 @@ bash scripts-demo/monitor-uptime.sh https://ejemplo.com
 
 **Qué mide**: Rendimiento de ejecución PHP del servidor
 
-**Reproducible**: ⚠️ Parcialmente  
+**El script puede ejecutarse**: ⚠️ Parcialmente
+**Reproduce el benchmark actual del laboratorio**: ❌ No
 **Cómo usarlo**:
 ```bash
 php benchmark-php.php
@@ -304,7 +309,7 @@ Para monitoreo básico continuo (sin infraestructura propia):
 
 - [ALCANCE.md](ALCANCE.md) - Qué incluye y NO incluye este repositorio
 - [README.md](README.md) - Información general del repositorio
-- [metodologia-publica/](metodologia-publica/) - Proceso completo de análisis
+- [metodologia-publica/](metodologia-publica/) - Archivo metodológico educativo
 
 ---
 

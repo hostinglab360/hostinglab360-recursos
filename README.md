@@ -1,6 +1,6 @@
 # 🧪 HostingLab360 - Recursos Técnicos
 
-Repositorio oficial de **[HostingLab360](https://hostinglab360.com.ar)**: metodología, scripts y guías técnicas para evaluar servicios de hosting web en Argentina.
+Documentación pública de **[HostingLab360](https://hostinglab360.com.ar)**, un laboratorio independiente que prueba servicios de hosting web en Argentina. Este repositorio conserva guías técnicas, criterios de análisis y ejemplos educativos; las reviews y mediciones vigentes se publican en el sitio principal.
 
 [![Website](https://img.shields.io/badge/Web-hostinglab360.com.ar-0066cc?style=for-the-badge)](https://hostinglab360.com.ar)
 [![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
@@ -11,11 +11,11 @@ Repositorio oficial de **[HostingLab360](https://hostinglab360.com.ar)**: metodo
 
 > **Importante**
 > 
-> Los scripts y recursos publicados en este repositorio son **versiones simplificadas y educativas** de las herramientas utilizadas por HostingLab360 en sus análisis.
+> Los scripts publicados en este repositorio son **ejemplos históricos, básicos y educativos**. No son el stack de pruebas que HostingLab360 utiliza actualmente.
 > 
-> **No representan el conjunto completo de pruebas**, ni la totalidad de la infraestructura, escenarios ni validaciones aplicadas en nuestras reviews públicas.
+> **No permiten reproducir exactamente** nuestras reviews, rankings ni mediciones actuales. La metodología vigente y los resultados publicados están en el sitio principal.
 > 
-> El objetivo de este repositorio es **mostrar ejemplos reproducibles**, facilitar aprendizaje técnico y dar transparencia sobre el tipo de métricas que evaluamos.
+> Conservamos este material por valor educativo y transparencia histórica, no como especificación del protocolo actual del laboratorio.
 
 📖 **Para más detalles**: Ver [ALCANCE.md](ALCANCE.md) | 🔬 **Reproducibilidad**: Ver [REPRODUCIBILIDAD.md](REPRODUCIBILIDAD.md)
 
@@ -40,33 +40,34 @@ HostingLab360 es un proyecto independiente de análisis y comparativas de **host
 - [Hosting compartido vs VPS: guía técnica](guides/hosting-compartido-vs-vps.md)
 - [Checklist: migrar tu sitio a otro hosting](guides/checklist-migracion.md)
 
-### `/scripts-demo` - Herramientas de Prueba (Demo)
+### `/scripts-demo` - Ejemplos Históricos Básicos
 - [Test de TTFB simple](scripts-demo/test-ttfb.sh) - Mide Time To First Byte
 - [Monitor de uptime básico](scripts-demo/monitor-uptime.sh) - Verifica disponibilidad
 - [Benchmark de velocidad PHP](scripts-demo/benchmark-php.php) - Prueba rendimiento PHP
 
-> **Nota**: Estos son scripts educativos simplificados. Las pruebas completas utilizan configuración adicional y monitoreo extendido.
+> **Importante**: son demostraciones desactualizadas. No representan la infraestructura, frecuencia de medición, controles ni herramientas que utiliza actualmente HostingLab360.
 
-### `/metodologia-publica` - Transparencia en Análisis
+### `/metodologia-publica` - Archivo Metodológico
 - [Cómo probamos los hostings](metodologia-publica/proceso-analisis.md)
 - [Criterios de evaluación y scoring](metodologia-publica/criterios-ranking.md)
 
-> **Nota**: Esta es la metodología pública simplificada. El proceso completo incluye pruebas adicionales y monitoreo más extenso.
+> **Nota**: este material se conserva como archivo educativo. Para conocer el protocolo vigente, consultá la página oficial de [Metodología](https://hostinglab360.com.ar/metodologia).
 
 ## 🎯 Objetivo del Repositorio
 
 Este repositorio tiene como objetivo:
 
-1. **Transparencia**: Mostrar cómo realizamos nuestros análisis
+1. **Transparencia**: Conservar públicamente material educativo e histórico
 2. **Educación**: Compartir conocimiento técnico sobre hosting web
-3. **Herramientas**: Proveer scripts útiles para la comunidad
-4. **Credibilidad**: Demostrar nuestro proceso profesional de evaluación
+3. **Herramientas**: Mantener ejemplos básicos para aprendizaje
+4. **Trazabilidad**: Separar claramente estos ejemplos del protocolo actual
 
 ## 🔗 Enlaces Útiles
 
 - 📊 [Comparativa de Hosting Argentina](https://hostinglab360.com.ar)
-- 🏆 [Ranking TOP 5 Mejor Hosting](https://hostinglab360.com.ar#ranking)
-- 📖 [Guías completas de hosting](https://hostinglab360.com.ar/guias/)
+- 🏆 [Comparativa de 6 hosting en Argentina](https://hostinglab360.com.ar/#comparativa)
+- 📖 [Guías completas de hosting](https://hostinglab360.com.ar/guias)
+- 🔬 [Metodología vigente del laboratorio](https://hostinglab360.com.ar/metodologia)
 - 📧 Contacto: contacto@hostinglab360.com.ar
 
 ## 🤝 Contribuciones
@@ -82,5 +83,5 @@ MIT License - Ver [LICENSE](LICENSE) para más detalles.
 
 ---
 
-**HostingLab360** - Análisis técnico independiente de hosting web argentino  
+**HostingLab360** - Laboratorio independiente de hosting web en Argentina
 🌐 [hostinglab360.com.ar](https://hostinglab360.com.ar) | 🐙 GitHub: [@hostinglab360](https://github.com/hostinglab360)
