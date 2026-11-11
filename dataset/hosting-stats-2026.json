@@ -1,0 +1,187 @@
+{
+  "schemaVersion": "2.0",
+  "lastUpdate": "2026-07-22",
+  "benchmarkDate": "2026-07-22",
+  "pricesReviewedAt": "2026-07-22",
+  "methodology": "Auditorías de rendimiento realizadas con conexión local desde Buenos Aires, Argentina. Se contratan planes reales de forma anónima y se miden latencia (TTFB) y disponibilidad (Uptime) bajo el mismo protocolo.",
+  "testEnvironment": {
+    "cms": "WordPress",
+    "configuration": "Configuración estándar",
+    "location": "Buenos Aires, Argentina"
+  },
+  "providers": [
+    {
+      "name": "WNPower",
+      "slug": "wnpower",
+      "category": "Hosting más estable",
+      "ttfbMs": 235,
+      "currentTTFB": "235ms",
+      "uptimePercent": 99.96,
+      "price": {
+        "ars": 2530,
+        "period": "monthly",
+        "plan": "Plan Lite (anual)",
+        "note": "Paga en 3, 6 y 12 cuotas con Mercado Pago"
+      },
+      "discountBadge": "78% OFF",
+      "localCurrency": true,
+      "trustpilot": 4.5,
+      "bestFor": "Estabilidad, soporte humano y uptime sobre AWS",
+      "technology": "AWS Cloud, cPanel, SSD/NVMe",
+      "serverLocation": "AWS Argentina",
+      "reviewUrl": "https://hostinglab360.com.ar/reviews/wnpower",
+      "lastTested": "2026-07-22"
+    },
+    {
+      "name": "Hostinger",
+      "slug": "hostinger",
+      "category": "Más rápido",
+      "ttfbMs": 178,
+      "currentTTFB": "178ms",
+      "uptimePercent": 99.98,
+      "price": {
+        "ars": 4899,
+        "renewalArs": 9699,
+        "period": "monthly",
+        "plan": "Plan Single (anual)"
+      },
+      "discountBadge": "60% off",
+      "localCurrency": false,
+      "taxWarning": "El precio sube en la renovación",
+      "trustpilot": 4.7,
+      "bestFor": "Menor latencia medida y relación precio-rendimiento",
+      "technology": "LiteSpeed, NVMe SSD",
+      "serverLocation": "Brasil (São Paulo)",
+      "reviewUrl": "https://hostinglab360.com.ar/reviews/hostinger",
+      "lastTested": "2026-07-22"
+    },
+    {
+      "name": "Neolo",
+      "slug": "neolo",
+      "category": "Mejor soporte",
+      "ttfbMs": 300,
+      "currentTTFB": "300ms",
+      "uptimePercent": 99.97,
+      "price": {
+        "ars": 3396,
+        "renewalArs": 6792,
+        "period": "monthly",
+        "plan": "Plan 0 (anual)"
+      },
+      "discountBadge": "50% off",
+      "localCurrency": true,
+      "trustpilot": 4.7,
+      "bestFor": "Soporte técnico 24/7 humano en español",
+      "technology": "NVMe SSD, cPanel",
+      "serverLocation": "Regional (3 continentes)",
+      "reviewUrl": "https://hostinglab360.com.ar/reviews/neolo",
+      "lastTested": "2026-07-22"
+    },
+    {
+      "name": "Webempresa",
+      "slug": "webempresa",
+      "category": "Especialista WordPress",
+      "ttfbMs": 185,
+      "currentTTFB": "185ms",
+      "uptimePercent": 99.98,
+      "price": {
+        "usd": 2.92,
+        "period": "monthly",
+        "plan": "Plan Micro (anual)",
+        "note": "Se renueva a USD 70 por año"
+      },
+      "discountBadge": "50% de descuento",
+      "localCurrency": false,
+      "taxWarning": "Precio en dólares más impuestos para Argentina",
+      "trustpilot": 4.8,
+      "bestFor": "WordPress de alta exigencia con seguridad avanzada",
+      "technology": "Google Cloud, LiteSpeed, NVMe SSD",
+      "support": "24/7 en español",
+      "serverLocation": "Google Cloud",
+      "reviewUrl": "https://hostinglab360.com.ar/reviews/webempresa",
+      "lastTested": "2026-07-22"
+    },
+    {
+      "name": "DonWeb",
+      "slug": "donweb",
+      "category": "Más económico",
+      "ttfbMs": 270,
+      "currentTTFB": "270ms",
+      "uptimePercent": 99.27,
+      "price": {
+        "ars": 3600,
+        "renewalArs": 11990,
+        "period": "monthly",
+        "plan": "Plan Personal (anual)"
+      },
+      "discountBadge": "Ahorro 68%",
+      "localCurrency": true,
+      "warnings": "Incidencias reportadas en diciembre de 2025 (MySQL, pagos y Cloudflare)",
+      "trustpilot": 4.6,
+      "bestFor": "Presupuesto ajustado con facturación local",
+      "technology": "LiteSpeed, cPanel, SSD",
+      "serverLocation": "Rosario, Argentina",
+      "reviewUrl": "https://hostinglab360.com.ar/reviews/donweb",
+      "lastTested": "2026-07-22"
+    },
+    {
+      "name": "Nuthost",
+      "slug": "nuthost",
+      "category": "cPanel y SiteJet IA",
+      "ttfbMs": 200,
+      "currentTTFB": "200ms",
+      "uptimePercent": 99.98,
+      "price": {
+        "ars": 3600,
+        "renewalArs": 9000,
+        "period": "monthly",
+        "plan": "Plan Nuke Lite (anual)"
+      },
+      "discountBadge": "Ahorro 60%",
+      "localCurrency": true,
+      "trustpilot": 4.7,
+      "bestFor": "cPanel clásico y constructor visual SiteJet con IA",
+      "technology": "cPanel, SiteJet IA, NVMe",
+      "serverLocation": "Datacenter local (Argentina)",
+      "reviewUrl": "https://hostinglab360.com.ar/reviews/nuthost",
+      "lastTested": "2026-07-22"
+    }
+  ],
+  "evaluationCriteria": {
+    "speed": {
+      "metric": "TTFB (Time To First Byte)",
+      "tools": "Benchmark propio in-situ y pruebas de latencia con conexión local",
+      "location": "Buenos Aires, Argentina"
+    },
+    "uptime": {
+      "metric": "Disponibilidad",
+      "tools": "UptimeRobot",
+      "duration": "Monitoreo continuo"
+    },
+    "support": {
+      "testTimes": [
+        "Horario laboral",
+        "Fuera de horario"
+      ],
+      "channels": [
+        "Chat",
+        "Email",
+        "Tickets"
+      ],
+      "language": "Español"
+    },
+    "security": {
+      "sslRequired": true,
+      "backupsRequired": true,
+      "ddosProtection": "Evaluado"
+    }
+  },
+  "notes": [
+    "Cada proveedor se mide sobre el plan inicial indicado en el campo price.plan.",
+    "Los precios son de referencia, corresponden al plan anual y pueden cambiar sin aviso. Verificá siempre el valor final en el sitio del proveedor.",
+    "Los valores de TTFB son promedios de los seis proveedores auditados y no representan una comparación contra todos los hostings existentes."
+  ],
+  "license": "CC BY 4.0",
+  "attribution": "HostingLab360",
+  "contact": "contacto@hostinglab360.com.ar"
+}
