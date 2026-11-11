@@ -1,0 +1,7 @@
+Proveedor,TTFB_ms,Uptime_pct,Precio,Moneda,Periodo,Plan,Nodo,Fecha_medicion
+WNPower,235,99.96,2530,ARS,Mensual (contratacion anual),Plan Lite,AWS Argentina,2026-07-22
+Hostinger,178,99.98,4899,ARS,Mensual (contratacion anual),Plan Single,Brasil (Sao Paulo),2026-07-22
+Neolo,300,99.97,3396,ARS,Mensual (contratacion anual),Plan 0,Regional (3 continentes),2026-07-22
+Webempresa,185,99.98,2.92,USD,Mensual (contratacion anual),Plan Micro,Google Cloud,2026-07-22
+DonWeb,270,99.27,3600,ARS,Mensual (contratacion anual),Plan Personal,Rosario (Argentina),2026-07-22
+Nuthost,200,99.98,3600,ARS,Mensual (contratacion anual),Plan Nuke Lite,Datacenter local (Argentina),2026-07-22
