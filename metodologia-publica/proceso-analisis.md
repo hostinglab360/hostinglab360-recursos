@@ -151,15 +151,15 @@ Cada proveedor recibe una puntuación ponderada basada en:
 
 **Escala de 0 a 100 puntos**
 
-Los rankings se actualizan cada 3 meses con nuevas mediciones.
+Las auditorías técnicas se actualizan en ciclo rotativo y cada proveedor muestra su fecha individual («Auditado»).
 
 ---
 
 ## 🔄 Actualización de Datos
 
-- **Precios**: Verificados mensualmente
-- **Pruebas técnicas**: Repetidas trimestralmente
-- **Evaluación de soporte**: Anual o ante cambios significativos
+- **Precios revisados**: Verificados periódicamente en bloque sobre los sitios oficiales
+- **Auditorías técnicas (Auditado)**: Ciclo rotativo continuo por proveedor (vigencia y fecha individual visibles en cada ficha y certificado)
+- **Evaluación de soporte**: Re-evaluada en cada auditoría del proveedor o ante cambios significativos
 
 ## 📊 Acceso a Datos Completos
 
@@ -169,7 +169,7 @@ Todos los análisis completos están publicados en:
 ## 💬 Contacto
 
 ¿Preguntas sobre nuestra metodología?  
-📧 info@hostinglab360.com.ar
+📧 contacto@hostinglab360.com.ar
 
 ---
 

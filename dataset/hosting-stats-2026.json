@@ -2,7 +2,7 @@
   "schemaVersion": "2.0",
   "lastUpdate": "2026-11-24",
   "benchmarkDate": "2026-07-22",
-  "pricesReviewedAt": "2026-07-22",
+  "pricesReviewedAt": "2026-11-23",
   "methodology": "Auditorías de rendimiento realizadas con conexión local desde Buenos Aires, Argentina. Se contratan planes reales de forma anónima y se miden latencia (TTFB) y disponibilidad (Uptime) bajo el mismo protocolo.",
   "testEnvironment": {
     "cms": "WordPress",
@@ -207,6 +207,7 @@
   "license": "CC BY 4.0",
   "attribution": "HostingLab360",
   "contact": "contacto@hostinglab360.com.ar",
-  "measuredAt": "22 Julio, 2026",
-  "providersCount": 6
+  "measuredAt": "22 jul 2026",
+  "providersCount": 6,
+  "auditCadence": "rotativo"
 }

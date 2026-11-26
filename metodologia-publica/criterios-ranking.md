@@ -162,9 +162,8 @@ Basado en Recursos Incluidos + Extras
 
 ## 🔄 Proceso de Actualización
 
-- **Rankings generales**: Actualizados trimestralmente
-- **Precios y promociones**: Verificados mensualmente
-- **Revisión completa**: Re-evaluación cada 6 meses
+- **Auditorías técnicas (Auditado)**: Ciclo rotativo continuo; cada proveedor muestra su fecha individual de auditoría bajo el mismo protocolo (re-auditoría periódica o ante cambios relevantes de infraestructura)
+- **Precios revisados**: Verificados periódicamente en bloque sobre los sitios oficiales de todos los proveedores
 
 ## ⚖️ Transparencia y Objetividad
 

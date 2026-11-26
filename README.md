@@ -18,18 +18,18 @@ Publicamos las mediciones consolidadas de latencia (`TTFB`), disponibilidad (`Up
 - 📈 **Dataset CSV**: [Versión en vivo](https://hostinglab360.com.ar/data/hosting-stats-2026.csv) | [Copia en este repositorio](dataset/hosting-stats-2026.csv)
 - 🤖 **Documentación estructurada para LLMs**: [llms.txt](https://hostinglab360.com.ar/llms.txt) | [llms-full.txt](https://hostinglab360.com.ar/llms-full.txt) | [ai.txt](https://hostinglab360.com.ar/ai.txt)
 
-### Resumen de mediciones (22 Julio, 2026)
+### Resumen de auditorías (última auditoría: 22 jul 2026 · precios revisados: 23 nov 2026)
 
-| Proveedor | TTFB medido | Uptime | Plan auditado | Precio de referencia | Nodo / Infraestructura |
-|---|---:|---:|---|---|---|
-| [WNPower](https://hostinglab360.com.ar/reviews/wnpower) | 235 ms | 99,96 % | Plan Lite (anual) | ARS 2.530/mes | AWS (Ashburn, EE.UU. · us-east-1) |
-| [Hostinger](https://hostinglab360.com.ar/reviews/hostinger) | 178 ms | 99,98 % | Plan Single (anual) | ARS 4.899/mes | São Paulo (Brasil) |
-| [Neolo](https://hostinglab360.com.ar/reviews/neolo) | 300 ms | 99,97 % | Plan 0 (anual) | ARS 3.396/mes | Regional / 3 continentes |
-| [Webempresa](https://hostinglab360.com.ar/reviews/webempresa) | 185 ms | 99,98 % | Plan Mini (anual) | USD 1,18/mes | Google Cloud |
-| [DonWeb](https://hostinglab360.com.ar/reviews/donweb) | 270 ms | 99,27 % | Plan Personal (anual) | ARS 3.800/mes | Rosario (Argentina) |
-| [Nuthost](https://hostinglab360.com.ar/reviews/nuthost) | 200 ms | 99,98 % | Plan Nuke Lite (anual) | ARS 3.600/mes | Datacenter local (Argentina) |
+| Proveedor | TTFB medido | Uptime | Plan auditado | Precio de referencia | Nodo / Infraestructura | Auditado |
+|---|---:|---:|---|---|---|---|
+| [WNPower](https://hostinglab360.com.ar/reviews/wnpower) | 235 ms | 99,96 % | Plan Lite (anual) | ARS 2.530/mes | AWS (Ashburn, EE.UU. · us-east-1) | 22 jul 2026 |
+| [Hostinger](https://hostinglab360.com.ar/reviews/hostinger) | 178 ms | 99,98 % | Plan Single (anual) | ARS 4.899/mes | São Paulo (Brasil) | 22 jul 2026 |
+| [Neolo](https://hostinglab360.com.ar/reviews/neolo) | 300 ms | 99,97 % | Plan 0 (anual) | ARS 3.396/mes | Regional / 3 continentes | 22 jul 2026 |
+| [Webempresa](https://hostinglab360.com.ar/reviews/webempresa) | 185 ms | 99,98 % | Plan Mini (anual) | USD 1,18/mes | Google Cloud | 22 jul 2026 |
+| [DonWeb](https://hostinglab360.com.ar/reviews/donweb) | 270 ms | 99,27 % | Plan Personal (anual) | ARS 3.800/mes | Rosario (Argentina) | 22 jul 2026 |
+| [Nuthost](https://hostinglab360.com.ar/reviews/nuthost) | 200 ms | 99,98 % | Plan Nuke Lite (anual) | ARS 3.600/mes | Datacenter local (Argentina) | 22 jul 2026 |
 
-> *Mediciones ejecutadas desde Buenos Aires sobre planes iniciales contratados de forma anónima. Los precios corresponden a contratación anual y pueden variar sin aviso; verificá siempre el valor vigente en el sitio del proveedor.*
+> *Auditorías técnicas ejecutadas en ciclo rotativo desde Buenos Aires sobre planes iniciales contratados de forma anónima. Cada proveedor muestra su fecha individual de auditoría; los precios se revisan periódicamente en bloque y corresponden a contratación anual.*
 
 ### Gráficos reutilizables (CC BY 4.0)
 
@@ -47,7 +47,7 @@ Este repositorio incluye [`CITATION.cff`](CITATION.cff) (podés usar el botón *
 
 **Texto plano:**
 ```text
-Fuente: HostingLab360 — Datos abiertos de rendimiento de hosting en Argentina (2026). Medición: 22 Julio, 2026. Licencia CC BY 4.0. Disponible en: https://hostinglab360.com.ar/datos
+Fuente: HostingLab360 — Datos abiertos de rendimiento de hosting en Argentina (2026). Medición: 22 jul 2026. Licencia CC BY 4.0. Disponible en: https://hostinglab360.com.ar/datos
 ```
 
 **HTML listo para artículos y blogs:**
