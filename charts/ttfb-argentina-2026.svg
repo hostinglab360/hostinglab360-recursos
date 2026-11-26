@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="486" viewBox="0 0 840 486" role="img" aria-label="Comparativa de velocidad TTFB de hosting en Argentina 2026">
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
+  </style>
+  <rect x="0.5" y="0.5" width="839" height="485" rx="12" fill="#ffffff" stroke="#e2e8f0" />
+  <text x="28" y="34" font-size="18" font-weight="700" fill="#0f172a">Velocidad real (TTFB) de hosting en Argentina · 2026</text>
+  <text x="28" y="56" font-size="12.5" fill="#475569">Tiempo hasta el primer byte medido desde Buenos Aires (menor es mejor · línea guía en 200 ms)</text>
+  
+    <line x1="250.0" y1="86" x2="250.0" y2="424" stroke="#e2e8f0" stroke-width="1"  />
+    <text x="250.0" y="78" text-anchor="middle" font-size="11" fill="#64748b" font-weight="400">0 ms</text>
+    <line x1="381.4" y1="86" x2="381.4" y2="424" stroke="#e2e8f0" stroke-width="1"  />
+    <text x="381.4" y="78" text-anchor="middle" font-size="11" fill="#64748b" font-weight="400">100 ms</text>
+    <line x1="512.9" y1="86" x2="512.9" y2="424" stroke="#0d9488" stroke-width="1.25" stroke-dasharray="4 4" />
+    <text x="512.9" y="78" text-anchor="middle" font-size="11" fill="#0f766e" font-weight="600">200 ms</text>
+    <line x1="644.3" y1="86" x2="644.3" y2="424" stroke="#e2e8f0" stroke-width="1"  />
+    <text x="644.3" y="78" text-anchor="middle" font-size="11" fill="#64748b" font-weight="400">300 ms</text>
+    <line x1="710.0" y1="86" x2="710.0" y2="424" stroke="#e2e8f0" stroke-width="1"  />
+    <text x="710.0" y="78" text-anchor="middle" font-size="11" fill="#64748b" font-weight="400">350 ms</text>
+  
+    <g transform="translate(0, 96)">
+      <text x="28" y="20" font-size="14" font-weight="700" fill="#0f172a">Hostinger</text>
+      <text x="28" y="38" font-size="11.5" fill="#64748b">São Paulo (Brasil)</text>
+      <rect x="250" y="10" width="460" height="24" rx="6" fill="#f1f5f9" />
+      <rect x="250" y="10" width="233.9" height="24" rx="6" fill="#0d9488" />
+      <text x="493.9" y="27" font-size="13.5" font-weight="700" fill="#0f172a">178 ms ★</text>
+    </g>
+    <g transform="translate(0, 152)">
+      <text x="28" y="20" font-size="14" font-weight="700" fill="#0f172a">Webempresa</text>
+      <text x="28" y="38" font-size="11.5" fill="#64748b">Google Cloud</text>
+      <rect x="250" y="10" width="460" height="24" rx="6" fill="#f1f5f9" />
+      <rect x="250" y="10" width="243.1" height="24" rx="6" fill="#0284c7" />
+      <text x="503.1" y="27" font-size="13.5" font-weight="700" fill="#0f172a">185 ms</text>
+    </g>
+    <g transform="translate(0, 208)">
+      <text x="28" y="20" font-size="14" font-weight="700" fill="#0f172a">Nuthost</text>
+      <text x="28" y="38" font-size="11.5" fill="#64748b">Datacenter local (Argentina)</text>
+      <rect x="250" y="10" width="460" height="24" rx="6" fill="#f1f5f9" />
+      <rect x="250" y="10" width="262.9" height="24" rx="6" fill="#0284c7" />
+      <text x="522.9" y="27" font-size="13.5" font-weight="700" fill="#0f172a">200 ms</text>
+    </g>
+    <g transform="translate(0, 264)">
+      <text x="28" y="20" font-size="14" font-weight="700" fill="#0f172a">WNPower</text>
+      <text x="28" y="38" font-size="11.5" fill="#64748b">AWS (Ashburn, EE.UU. · us-east-…</text>
+      <rect x="250" y="10" width="460" height="24" rx="6" fill="#f1f5f9" />
+      <rect x="250" y="10" width="308.9" height="24" rx="6" fill="#3b82f6" />
+      <text x="568.9" y="27" font-size="13.5" font-weight="700" fill="#0f172a">235 ms</text>
+    </g>
+    <g transform="translate(0, 320)">
+      <text x="28" y="20" font-size="14" font-weight="700" fill="#0f172a">DonWeb</text>
+      <text x="28" y="38" font-size="11.5" fill="#64748b">Rosario (Argentina)</text>
+      <rect x="250" y="10" width="460" height="24" rx="6" fill="#f1f5f9" />
+      <rect x="250" y="10" width="354.9" height="24" rx="6" fill="#64748b" />
+      <text x="614.9" y="27" font-size="13.5" font-weight="700" fill="#0f172a">270 ms</text>
+    </g>
+    <g transform="translate(0, 376)">
+      <text x="28" y="20" font-size="14" font-weight="700" fill="#0f172a">Neolo</text>
+      <text x="28" y="38" font-size="11.5" fill="#64748b">Regional / 3 continentes</text>
+      <rect x="250" y="10" width="460" height="24" rx="6" fill="#f1f5f9" />
+      <rect x="250" y="10" width="394.3" height="24" rx="6" fill="#64748b" />
+      <text x="654.3" y="27" font-size="13.5" font-weight="700" fill="#0f172a">300 ms</text>
+    </g>
+  <line x1="28" y1="448" x2="812" y2="448" stroke="#e2e8f0" />
+  <text x="28" y="469" font-size="11.5" fill="#64748b">Fuente: HostingLab360 (hostinglab360.com.ar/datos) · Medición: 22 Julio, 2026 · Licencia CC BY 4.0</text>
+  <text x="812" y="469" text-anchor="end" font-size="11.5" font-weight="600" fill="#0f766e">★ Menor latencia medida</text>
+</svg>

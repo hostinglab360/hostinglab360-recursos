@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "Si utilizás este dataset, gráficos o metodología en un artículo, informe o investigación, por favor citalo usando los metadatos siguientes."
+type: dataset
+title: "HostingLab360 — Dataset Abierto de Rendimiento de Hosting en Argentina (2026)"
+version: "2026.1"
+date-released: "2026-07-22"
+url: "https://hostinglab360.com.ar/datos"
+repository-code: "https://github.com/hostinglab360/hostinglab360-recursos"
+license: CC-BY-4.0
+authors:
+  - family-names: "Scotti"
+    given-names: "Rafael"
+    affiliation: "HostingLab360"
+  - name: "HostingLab360"
+    website: "https://hostinglab360.com.ar"
+keywords:
+  - hosting argentina
+  - web performance
+  - ttfb
+  - uptime
+  - benchmark
+  - open data
+abstract: "Mediciones independientes de latencia (TTFB), disponibilidad (Uptime), ubicación de servidores y precios de referencia de proveedores de hosting web utilizados en Argentina, ejecutadas desde Buenos Aires por HostingLab360."

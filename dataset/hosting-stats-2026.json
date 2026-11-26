@@ -1,6 +1,6 @@
 {
   "schemaVersion": "2.0",
-  "lastUpdate": "2026-07-22",
+  "lastUpdate": "2026-11-24",
   "benchmarkDate": "2026-07-22",
   "pricesReviewedAt": "2026-07-22",
   "methodology": "Auditorías de rendimiento realizadas con conexión local desde Buenos Aires, Argentina. Se contratan planes reales de forma anónima y se miden latencia (TTFB) y disponibilidad (Uptime) bajo el mismo protocolo.",
@@ -19,18 +19,22 @@
       "uptimePercent": 99.96,
       "price": {
         "ars": 2530,
+        "renewalArs": 11499,
         "period": "monthly",
         "plan": "Plan Lite (anual)",
-        "note": "Paga en 3, 6 y 12 cuotas con Mercado Pago"
+        "note": "Se renueva a ARS 11.499/mes + IVA. Pagá en 3, 6 y 12 cuotas con Mercado Pago."
       },
       "discountBadge": "78% OFF",
       "localCurrency": true,
       "trustpilot": 4.5,
       "bestFor": "Estabilidad, soporte humano y uptime sobre AWS",
       "technology": "AWS Cloud, cPanel, SSD/NVMe",
-      "serverLocation": "AWS Argentina",
+      "serverLocation": "AWS (Ashburn, EE.UU. · us-east-1)",
       "reviewUrl": "https://hostinglab360.com.ar/reviews/wnpower",
-      "lastTested": "2026-07-22"
+      "lastTested": "2026-07-22",
+      "id": "wnpower",
+      "rank": 1,
+      "rating": 4.8
     },
     {
       "name": "Hostinger",
@@ -43,17 +47,21 @@
         "ars": 4899,
         "renewalArs": 9699,
         "period": "monthly",
-        "plan": "Plan Single (anual)"
+        "plan": "Plan Single (anual)",
+        "note": "Se renueva a ARS 9.699/mes."
       },
-      "discountBadge": "60% off",
-      "localCurrency": false,
+      "discountBadge": "60% OFF",
+      "localCurrency": true,
       "taxWarning": "El precio sube en la renovación",
       "trustpilot": 4.7,
       "bestFor": "Menor latencia medida y relación precio-rendimiento",
       "technology": "LiteSpeed, NVMe SSD",
-      "serverLocation": "Brasil (São Paulo)",
+      "serverLocation": "São Paulo (Brasil)",
       "reviewUrl": "https://hostinglab360.com.ar/reviews/hostinger",
-      "lastTested": "2026-07-22"
+      "lastTested": "2026-07-22",
+      "id": "hostinger",
+      "rank": 2,
+      "rating": 4.8
     },
     {
       "name": "Neolo",
@@ -66,16 +74,20 @@
         "ars": 3396,
         "renewalArs": 6792,
         "period": "monthly",
-        "plan": "Plan 0 (anual)"
+        "plan": "Plan 0 (anual)",
+        "note": "Se renueva a $6.792/mes"
       },
       "discountBadge": "50% off",
       "localCurrency": true,
       "trustpilot": 4.7,
       "bestFor": "Soporte técnico 24/7 humano en español",
       "technology": "NVMe SSD, cPanel",
-      "serverLocation": "Regional (3 continentes)",
+      "serverLocation": "Regional / 3 continentes",
       "reviewUrl": "https://hostinglab360.com.ar/reviews/neolo",
-      "lastTested": "2026-07-22"
+      "lastTested": "2026-07-22",
+      "id": "neolo",
+      "rank": 3,
+      "rating": 4.7
     },
     {
       "name": "Webempresa",
@@ -85,12 +97,12 @@
       "currentTTFB": "185ms",
       "uptimePercent": 99.98,
       "price": {
-        "usd": 2.92,
+        "usd": 1.18,
         "period": "monthly",
-        "plan": "Plan Micro (anual)",
-        "note": "Se renueva a USD 70 por año"
+        "plan": "Plan Mini (anual)",
+        "note": "90% descuento inicial."
       },
-      "discountBadge": "50% de descuento",
+      "discountBadge": "90% DESCUENTO",
       "localCurrency": false,
       "taxWarning": "Precio en dólares más impuestos para Argentina",
       "trustpilot": 4.8,
@@ -99,7 +111,10 @@
       "support": "24/7 en español",
       "serverLocation": "Google Cloud",
       "reviewUrl": "https://hostinglab360.com.ar/reviews/webempresa",
-      "lastTested": "2026-07-22"
+      "lastTested": "2026-07-22",
+      "id": "webempresa",
+      "rank": 4,
+      "rating": 4.8
     },
     {
       "name": "DonWeb",
@@ -109,20 +124,24 @@
       "currentTTFB": "270ms",
       "uptimePercent": 99.27,
       "price": {
-        "ars": 3600,
+        "ars": 3800,
         "renewalArs": 11990,
         "period": "monthly",
-        "plan": "Plan Personal (anual)"
+        "plan": "Plan Personal (anual)",
+        "note": "Se renueva a $11.990/mes."
       },
-      "discountBadge": "Ahorro 68%",
+      "discountBadge": "AHORRA 34%",
       "localCurrency": true,
       "warnings": "Incidencias reportadas en diciembre de 2025 (MySQL, pagos y Cloudflare)",
       "trustpilot": 4.6,
       "bestFor": "Presupuesto ajustado con facturación local",
       "technology": "LiteSpeed, cPanel, SSD",
-      "serverLocation": "Rosario, Argentina",
+      "serverLocation": "Rosario (Argentina)",
       "reviewUrl": "https://hostinglab360.com.ar/reviews/donweb",
-      "lastTested": "2026-07-22"
+      "lastTested": "2026-07-22",
+      "id": "donweb",
+      "rank": 5,
+      "rating": 4.4
     },
     {
       "name": "Nuthost",
@@ -135,7 +154,8 @@
         "ars": 3600,
         "renewalArs": 9000,
         "period": "monthly",
-        "plan": "Plan Nuke Lite (anual)"
+        "plan": "Plan Nuke Lite (anual)",
+        "note": "Se renueva a $9.000/mes"
       },
       "discountBadge": "Ahorro 60%",
       "localCurrency": true,
@@ -144,7 +164,10 @@
       "technology": "cPanel, SiteJet IA, NVMe",
       "serverLocation": "Datacenter local (Argentina)",
       "reviewUrl": "https://hostinglab360.com.ar/reviews/nuthost",
-      "lastTested": "2026-07-22"
+      "lastTested": "2026-07-22",
+      "id": "nuthost",
+      "rank": 6,
+      "rating": 4.7
     }
   ],
   "evaluationCriteria": {
@@ -183,5 +206,7 @@
   ],
   "license": "CC BY 4.0",
   "attribution": "HostingLab360",
-  "contact": "contacto@hostinglab360.com.ar"
+  "contact": "contacto@hostinglab360.com.ar",
+  "measuredAt": "22 Julio, 2026",
+  "providersCount": 6
 }

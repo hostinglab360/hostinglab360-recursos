@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="462" viewBox="0 0 840 462" role="img" aria-label="Comparativa de disponibilidad Uptime de hosting en Argentina 2026">
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
+  </style>
+  <rect x="0.5" y="0.5" width="839" height="461" rx="12" fill="#ffffff" stroke="#e2e8f0" />
+  <text x="28" y="34" font-size="18" font-weight="700" fill="#0f172a">Disponibilidad real (Uptime) de hosting en Argentina · 2026</text>
+  <text x="28" y="56" font-size="12.5" fill="#475569">Monitoreo continuo con UptimeRobot (mayor es mejor · escala detallada de 99,00% a 100,00% · referencia 99,90%)</text>
+  
+    <line x1="250.0" y1="86" x2="250.0" y2="400" stroke="#e2e8f0" stroke-width="1" />
+    <text x="250.0" y="78" text-anchor="middle" font-size="11" fill="#64748b">99,00%</text>
+    <line x1="365.0" y1="86" x2="365.0" y2="400" stroke="#e2e8f0" stroke-width="1" />
+    <text x="365.0" y="78" text-anchor="middle" font-size="11" fill="#64748b">99,25%</text>
+    <line x1="480.0" y1="86" x2="480.0" y2="400" stroke="#e2e8f0" stroke-width="1" />
+    <text x="480.0" y="78" text-anchor="middle" font-size="11" fill="#64748b">99,50%</text>
+    <line x1="595.0" y1="86" x2="595.0" y2="400" stroke="#e2e8f0" stroke-width="1" />
+    <text x="595.0" y="78" text-anchor="middle" font-size="11" fill="#64748b">99,75%</text>
+    <line x1="710.0" y1="86" x2="710.0" y2="400" stroke="#e2e8f0" stroke-width="1" />
+    <text x="710.0" y="78" text-anchor="middle" font-size="11" fill="#64748b">100,00%</text>
+  <line x1="664.0" y1="86" x2="664.0" y2="400" stroke="#0d9488" stroke-width="1.25" stroke-dasharray="4 4" />
+  
+    <g transform="translate(0, 96)">
+      <text x="28" y="19" font-size="14" font-weight="700" fill="#0f172a">Hostinger</text>
+      <text x="28" y="36" font-size="11.5" fill="#64748b">Plan Single (anual)</text>
+      <rect x="250" y="9" width="460" height="22" rx="6" fill="#f1f5f9" />
+      <rect x="250" y="9" width="450.8" height="22" rx="6" fill="#0d9488" />
+      <text x="710.8" y="25" font-size="13.5" font-weight="700" fill="#0f172a">99,98%</text>
+    </g>
+    <g transform="translate(0, 148)">
+      <text x="28" y="19" font-size="14" font-weight="700" fill="#0f172a">Webempresa</text>
+      <text x="28" y="36" font-size="11.5" fill="#64748b">Plan Mini (anual)</text>
+      <rect x="250" y="9" width="460" height="22" rx="6" fill="#f1f5f9" />
+      <rect x="250" y="9" width="450.8" height="22" rx="6" fill="#0d9488" />
+      <text x="710.8" y="25" font-size="13.5" font-weight="700" fill="#0f172a">99,98%</text>
+    </g>
+    <g transform="translate(0, 200)">
+      <text x="28" y="19" font-size="14" font-weight="700" fill="#0f172a">Nuthost</text>
+      <text x="28" y="36" font-size="11.5" fill="#64748b">Plan Nuke Lite (anual)</text>
+      <rect x="250" y="9" width="460" height="22" rx="6" fill="#f1f5f9" />
+      <rect x="250" y="9" width="450.8" height="22" rx="6" fill="#0d9488" />
+      <text x="710.8" y="25" font-size="13.5" font-weight="700" fill="#0f172a">99,98%</text>
+    </g>
+    <g transform="translate(0, 252)">
+      <text x="28" y="19" font-size="14" font-weight="700" fill="#0f172a">Neolo</text>
+      <text x="28" y="36" font-size="11.5" fill="#64748b">Plan 0 (anual)</text>
+      <rect x="250" y="9" width="460" height="22" rx="6" fill="#f1f5f9" />
+      <rect x="250" y="9" width="446.2" height="22" rx="6" fill="#0d9488" />
+      <text x="706.2" y="25" font-size="13.5" font-weight="700" fill="#0f172a">99,97%</text>
+    </g>
+    <g transform="translate(0, 304)">
+      <text x="28" y="19" font-size="14" font-weight="700" fill="#0f172a">WNPower</text>
+      <text x="28" y="36" font-size="11.5" fill="#64748b">Plan Lite (anual)</text>
+      <rect x="250" y="9" width="460" height="22" rx="6" fill="#f1f5f9" />
+      <rect x="250" y="9" width="441.6" height="22" rx="6" fill="#0d9488" />
+      <text x="701.6" y="25" font-size="13.5" font-weight="700" fill="#0f172a">99,96%</text>
+    </g>
+    <g transform="translate(0, 356)">
+      <text x="28" y="19" font-size="14" font-weight="700" fill="#0f172a">DonWeb</text>
+      <text x="28" y="36" font-size="11.5" fill="#64748b">Plan Personal (anual)</text>
+      <rect x="250" y="9" width="460" height="22" rx="6" fill="#f1f5f9" />
+      <rect x="250" y="9" width="124.2" height="22" rx="6" fill="#d97706" />
+      <text x="384.2" y="25" font-size="13.5" font-weight="700" fill="#0f172a">99,27%</text>
+    </g>
+  <line x1="28" y1="424" x2="812" y2="424" stroke="#e2e8f0" />
+  <text x="28" y="445" font-size="11.5" fill="#64748b">Fuente: HostingLab360 (hostinglab360.com.ar/datos) · Medición: 22 Julio, 2026 · Licencia CC BY 4.0</text>
+  <text x="812" y="445" text-anchor="end" font-size="11.5" font-weight="600" fill="#0f766e">Línea punteada: 99,90%</text>
+</svg>

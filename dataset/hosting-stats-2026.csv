@@ -1,7 +1,7 @@
-Proveedor,TTFB_ms,Uptime_pct,Precio,Moneda,Periodo,Plan,Nodo,Fecha_medicion
-WNPower,235,99.96,2530,ARS,Mensual (contratacion anual),Plan Lite,AWS Argentina,2026-07-22
-Hostinger,178,99.98,4899,ARS,Mensual (contratacion anual),Plan Single,Brasil (Sao Paulo),2026-07-22
-Neolo,300,99.97,3396,ARS,Mensual (contratacion anual),Plan 0,Regional (3 continentes),2026-07-22
-Webempresa,185,99.98,2.92,USD,Mensual (contratacion anual),Plan Micro,Google Cloud,2026-07-22
-DonWeb,270,99.27,3600,ARS,Mensual (contratacion anual),Plan Personal,Rosario (Argentina),2026-07-22
-Nuthost,200,99.98,3600,ARS,Mensual (contratacion anual),Plan Nuke Lite,Datacenter local (Argentina),2026-07-22
+rank,id,name,ttfb_ms,uptime_percent,price_ars,price_usd,plan,server_location,review_url,renewal_ars,measured_at
+1,"wnpower","WNPower",235,99.96,2530,,"Plan Lite (anual)","AWS (Ashburn, EE.UU. · us-east-1)","https://hostinglab360.com.ar/reviews/wnpower",11499,"2026-07-22"
+2,"hostinger","Hostinger",178,99.98,4899,,"Plan Single (anual)","São Paulo (Brasil)","https://hostinglab360.com.ar/reviews/hostinger",9699,"2026-07-22"
+3,"neolo","Neolo",300,99.97,3396,,"Plan 0 (anual)","Regional / 3 continentes","https://hostinglab360.com.ar/reviews/neolo",6792,"2026-07-22"
+4,"webempresa","Webempresa",185,99.98,,1.18,"Plan Mini (anual)","Google Cloud","https://hostinglab360.com.ar/reviews/webempresa",,"2026-07-22"
+5,"donweb","DonWeb",270,99.27,3800,,"Plan Personal (anual)","Rosario (Argentina)","https://hostinglab360.com.ar/reviews/donweb",11990,"2026-07-22"
+6,"nuthost","Nuthost",200,99.98,3600,,"Plan Nuke Lite (anual)","Datacenter local (Argentina)","https://hostinglab360.com.ar/reviews/nuthost",9000,"2026-07-22"
