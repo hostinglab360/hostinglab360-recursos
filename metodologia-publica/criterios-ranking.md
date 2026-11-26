@@ -199,6 +199,6 @@ Basado en Recursos Incluidos + Extras
 Ver análisis completos aplicando estos criterios en:  
 👉 [hostinglab360.com.ar](https://hostinglab360.com.ar)
 
-📧 **Contacto**: info@hostinglab360.com.ar
+📧 **Contacto**: contacto@hostinglab360.com.ar
 
 *Versión: 1.0 - Enero 2026*

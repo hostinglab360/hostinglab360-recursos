@@ -47,7 +47,7 @@ Este repositorio incluye [`CITATION.cff`](CITATION.cff) (podés usar el botón *
 
 **Texto plano:**
 ```text
-Fuente: HostingLab360 — Datos abiertos de rendimiento de hosting en Argentina (2026). Medición: 22 jul 2026. Licencia CC BY 4.0. Disponible en: https://hostinglab360.com.ar/datos
+Fuente: HostingLab360 — Datos abiertos de rendimiento de hosting en Argentina (2026). Última auditoría: 22 jul 2026. Licencia CC BY 4.0. Disponible en: https://hostinglab360.com.ar/datos
 ```
 
 **HTML listo para artículos y blogs:**
